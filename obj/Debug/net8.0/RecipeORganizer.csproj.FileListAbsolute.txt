@@ -21,3 +21,4 @@ C:\Users\User\source\repos\RecipeORganizer\RecipeORganizer\obj\Debug\net8.0\refi
 C:\Users\User\source\repos\RecipeORganizer\RecipeORganizer\obj\Debug\net8.0\RecipeORganizer.pdb
 C:\Users\User\source\repos\RecipeORganizer\RecipeORganizer\obj\Debug\net8.0\RecipeORganizer.genruntimeconfig.cache
 C:\Users\User\source\repos\RecipeORganizer\RecipeORganizer\obj\Debug\net8.0\ref\RecipeORganizer.dll
+C:\Users\User\source\repos\RecipeORganizer\RecipeORganizer\obj\Debug\net8.0\RecipeORganizer.sourcelink.json
